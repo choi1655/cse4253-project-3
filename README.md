@@ -1,5 +1,5 @@
-# REPO-NAME
-The Ohio State University SEMESETER YEAR ABC 1234 (Course Description) PROJECT DESCRIPTION
+# cse4253-project-3
+The Ohio State University AU 20 CSE 4253 (C# Programming) Programming Assignment 3.
 
 ## Instructor
-Dr. NAME, The Ohio State University, Dept. of DEPARTMENT
+Dr. Roger Crawfis, The Ohio State University Dept. of Computer Science and Engineering
