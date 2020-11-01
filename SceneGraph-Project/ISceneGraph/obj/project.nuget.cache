@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oDzZkAyalj17VTpse7HSkckbNKyEQllzzqtISaVNyiLOsU5Ev+tySxKM9kylblnILJXF22bkIS1UyIlTw0VMBw==",
+  "success": true,
+  "projectFilePath": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/ISceneNode.csproj",
+  "expectedPackageFiles": [
+    "/Users/jchoi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jchoi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Choi.SceneGraph</RootNamespace>
+    <Description>John Choi.1655
+The Ohio State University
+College of Engineering, Department of Computer Science and Engineering
+
+Description: CSE4253 (C# Programming) Programming Assignment #2.</Description>
+  </PropertyGroup>
+
+</Project>

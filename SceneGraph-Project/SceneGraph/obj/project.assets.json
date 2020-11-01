@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ISceneNode/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/ISceneNode.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ISceneNode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISceneNode/1.0.0": {
+      "type": "project",
+      "path": "../ISceneGraph/ISceneNode.csproj",
+      "msbuildProject": "../ISceneGraph/ISceneNode.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ISceneNode >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jchoi/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/SceneGraph/SceneGraph.csproj",
+      "projectName": "SceneGraph",
+      "projectPath": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/SceneGraph/SceneGraph.csproj",
+      "packagesPath": "/Users/jchoi/.nuget/packages/",
+      "outputPath": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/SceneGraph/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jchoi/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/ISceneNode.csproj": {
+              "projectPath": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/ISceneNode.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+/Users/jchoi/C#/cse4253-project-2/ISceneGraph/ISceneGraph/bin/Debug/netstandard2.0/ISceneGraph.deps.json
+/Users/jchoi/C#/cse4253-project-2/ISceneGraph/ISceneGraph/bin/Debug/netstandard2.0/ISceneGraph.dll
+/Users/jchoi/C#/cse4253-project-2/ISceneGraph/ISceneGraph/bin/Debug/netstandard2.0/ISceneGraph.pdb
+/Users/jchoi/C#/cse4253-project-2/ISceneGraph/ISceneGraph/obj/Debug/netstandard2.0/ISceneGraph.csprojAssemblyReference.cache
+/Users/jchoi/C#/cse4253-project-2/ISceneGraph/ISceneGraph/obj/Debug/netstandard2.0/ISceneGraph.AssemblyInfoInputs.cache
+/Users/jchoi/C#/cse4253-project-2/ISceneGraph/ISceneGraph/obj/Debug/netstandard2.0/ISceneGraph.AssemblyInfo.cs
+/Users/jchoi/C#/cse4253-project-2/ISceneGraph/ISceneGraph/obj/Debug/netstandard2.0/ISceneGraph.csproj.CoreCompileInputs.cache
+/Users/jchoi/C#/cse4253-project-2/ISceneGraph/ISceneGraph/obj/Debug/netstandard2.0/ISceneGraph.dll
+/Users/jchoi/C#/cse4253-project-2/ISceneGraph/ISceneGraph/obj/Debug/netstandard2.0/ISceneGraph.pdb

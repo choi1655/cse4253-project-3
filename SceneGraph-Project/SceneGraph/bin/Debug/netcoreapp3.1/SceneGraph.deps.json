@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SceneGraph/1.0.0": {
+        "dependencies": {
+          "ISceneNode": "1.0.0"
+        },
+        "runtime": {
+          "SceneGraph.dll": {}
+        }
+      },
+      "ISceneNode/1.0.0": {
+        "runtime": {
+          "ISceneNode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SceneGraph/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ISceneNode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

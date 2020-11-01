@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{D0A66BDB-E0AD-4E82-9781-627108867C54}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SceneGraph/Program.cs">
+    <Files>
+      <File FileName="ISceneGraph/ISceneNode.cs" Line="9" Column="1" />
+      <File FileName="ISceneGraph/IVisitor.cs" />
+      <File FileName="ISceneGraph/IDrawableNode.cs" />
+      <File FileName="ISceneGraph/IStateNode.cs" />
+      <File FileName="ISceneGraph/ITransformNode.cs" />
+      <File FileName="ISceneGraph/IGroupNode.cs" />
+      <File FileName="SceneGraph/Program.cs" Line="10" Column="18" />
+      <File FileName="SceneGraph/GroupNode.cs" Line="19" Column="25" />
+      <File FileName="SceneGraph/DrawableNodeBase.cs" Line="18" Column="10" />
+      <File FileName="SceneGraph/Cube.cs" />
+      <File FileName="SceneGraph/PrintVisitor.cs" Line="57" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SceneGraph-Project" expanded="True">
+            <Node name="ISceneNode" expanded="True" />
+            <Node name="SceneGraph" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SceneGraph PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
