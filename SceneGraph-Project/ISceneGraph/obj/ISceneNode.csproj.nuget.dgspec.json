@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/ISceneNode.csproj": {}
+    "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/ISceneGraph/ISceneNode.csproj": {}
   },
   "projects": {
-    "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/ISceneNode.csproj": {
+    "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/ISceneGraph/ISceneNode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/ISceneNode.csproj",
+        "projectUniqueName": "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/ISceneGraph/ISceneNode.csproj",
         "projectName": "ISceneNode",
-        "projectPath": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/ISceneNode.csproj",
+        "projectPath": "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/ISceneGraph/ISceneNode.csproj",
         "packagesPath": "/Users/jchoi/.nuget/packages/",
-        "outputPath": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/obj/",
+        "outputPath": "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/ISceneGraph/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jchoi/.config/NuGet/NuGet.Config"

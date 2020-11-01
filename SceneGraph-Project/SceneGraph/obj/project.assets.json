@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/SceneGraph/SceneGraph.csproj",
+      "projectUniqueName": "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/SceneGraph/SceneGraph.csproj",
       "projectName": "SceneGraph",
-      "projectPath": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/SceneGraph/SceneGraph.csproj",
+      "projectPath": "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/SceneGraph/SceneGraph.csproj",
       "packagesPath": "/Users/jchoi/.nuget/packages/",
-      "outputPath": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/SceneGraph/obj/",
+      "outputPath": "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/SceneGraph/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jchoi/.config/NuGet/NuGet.Config"
@@ -50,8 +50,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/ISceneNode.csproj": {
-              "projectPath": "/Users/jchoi/C#/cse4253-project-2/SceneGraph-Project/ISceneGraph/ISceneNode.csproj"
+            "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/ISceneGraph/ISceneNode.csproj": {
+              "projectPath": "/Users/jchoi/C#/cse4253-project-3/SceneGraph-Project/ISceneGraph/ISceneNode.csproj"
             }
           }
         }

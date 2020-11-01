@@ -1,0 +1,6 @@
+# VS IDE support files
+.vs
+
+# vim temporary file
+*.swp
+

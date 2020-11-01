@@ -8,10 +8,10 @@
       <File FileName="ISceneGraph/ITransformNode.cs" />
       <File FileName="ISceneGraph/IGroupNode.cs" />
       <File FileName="SceneGraph/Program.cs" Line="10" Column="18" />
-      <File FileName="SceneGraph/GroupNode.cs" Line="19" Column="25" />
-      <File FileName="SceneGraph/DrawableNodeBase.cs" Line="18" Column="10" />
+      <File FileName="SceneGraph/GroupNode.cs" />
+      <File FileName="SceneGraph/DrawableNodeBase.cs" />
       <File FileName="SceneGraph/Cube.cs" />
-      <File FileName="SceneGraph/PrintVisitor.cs" Line="57" Column="40" />
+      <File FileName="SceneGraph/PrintVisitor.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
